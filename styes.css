@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.toolbar {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-right: 5px;
+}
+
